@@ -8,10 +8,9 @@
 ## 📂 Project Structure
 
 DAY_3/
-├── Housing.csv          # Dataset used for training and testing
-├── Housing.ipynb        # Jupyter notebook with code and analysis
-└── README.md            # Project documentation (this file)
----
+├── Housing.csv      
+├── Housing.ipynb        
+└── README.md    
 
 ## Project Description
 This project focuses on:
