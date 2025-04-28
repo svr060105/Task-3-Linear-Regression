@@ -1,7 +1,7 @@
 # Task 3: Linear Regression
-
-> **Objective:**  
-> Implement and understand simple and multiple linear regression models using Scikit-learn, Pandas, and Matplotlib.
+ 
+**Objective:**  
+Implement and understand simple and multiple linear regression models using Scikit-learn, Pandas, and Matplotlib.
 
 ---
 
@@ -12,6 +12,8 @@ Linear Regression
 ├── Housing.csv      
 ├── Housing.ipynb        
 └── README.md    
+
+---
 
 ## Project Description
 This project focuses on:
