@@ -40,31 +40,31 @@ pip install pandas scikit-learn matplotlib
 
 - Run the Jupyter Notebook:
 jupyter notebook Housing.ipynb
-
+-- 
 ## Tasks Covered
-- Import and Preprocess Data
+-- Import and Preprocess Data
 1. Handle missing values
 2. Encode categorical variables (if any)
 3. Feature selection
 
-- Split the Dataset
+-- Split the Dataset
 1. Train-test split (e.g., 80%-20%)
 
-# Build Linear Regression Model
+-- Build Linear Regression Model
 1. Fit model using sklearn.linear_model.LinearRegression
 2. Train the model on the training data
 
-# Evaluate the Model
+-- Evaluate the Model
 - Metrics:
 1. Mean Absolute Error (MAE)
 2. Mean Squared Error (MSE)
 3. R² Score
 
-# Visualize Results
-- Plot actual vs predicted values
-- Plot regression line for simple linear regression
+-- Visualize Results
+1. Plot actual vs predicted values
+2. Plot regression line for simple linear regression
 
-## Results
-- Achieved good prediction accuracy using simple and multiple linear regression.
-- Visualized regression line and understood the importance of coefficients.
+-- Results
+1. Achieved good prediction accuracy using simple and multiple linear regression.
+2. Visualized regression line and understood the importance of coefficients.
 
