@@ -7,7 +7,8 @@
 
 ## 📂 Project Structure
 
-DAY_3/
+Linear Regression
+<br>
 ├── Housing.csv      
 ├── Housing.ipynb        
 └── README.md    
